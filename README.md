@@ -58,7 +58,7 @@ When you give an AI the same instruction in different words, does it follow the 
 
 Every version in this repository contains the same seven-component architecture. The instructions are functionally identical. If register doesn't matter, they should all produce the same behavior. If register does matter, then the way you naturally talk to your AI is already shaping its output in ways you never intended.
 
-More on the design, the psychology, and the experiment: *[Substack link coming soon]*
+More on the design, the psychology, and the experiment: *[https://substack.com/@swinglightstyle]*
 
 ---
 
